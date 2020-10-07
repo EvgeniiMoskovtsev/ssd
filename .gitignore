@@ -1,0 +1,4 @@
+data/
+*.tar
+*.onnx
+__pycache__/
